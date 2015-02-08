@@ -1,0 +1,10 @@
+#container {
+    height: 700px;
+    width: 600px;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #e5e5e5;
+    display: block;
+}
